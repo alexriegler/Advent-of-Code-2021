@@ -20,6 +20,8 @@ Each day has some associated topics and inside its corresponding folder there is
 
 * [Day 1](./Day1)
   * C++20/C++23 Ranges; `<numeric>` Algorithms.
+* [Day 2](./Day2)
+  * Operator overloading, template specialization.
 * ...
 
 
